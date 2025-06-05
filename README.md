@@ -59,7 +59,6 @@ This project demonstrates the use of 3D game development concepts, including obj
 
     ```bash
     python 3DPongMainGOOD.py
-    ```
 
 ## Conclusion
 
