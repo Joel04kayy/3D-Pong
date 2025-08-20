@@ -7,9 +7,6 @@
 
 
 
-
-
-
 # 3D-Pong
 
 This 3D Pong game is an enhanced version of the classic Pong game, implemented in Python using the VPython library. It is a visually engaging game where players control paddles to hit a ball in a 3D environment.
